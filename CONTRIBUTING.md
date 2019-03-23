@@ -1,35 +1,8 @@
-# Contributing to Go
+Hurray! We are glad that you want to contribute to our project! 💖
 
-Go is an open source project.
+## Claiming an issue
+If you see an issue that you'd like to work on, please just post a comment saying that you want to work on it. Something like "I want to work on this" is fine.
 
-It is the work of hundreds of contributors. We appreciate your help!
+## New to GitHub?
 
-## Before filing an issue
-
-If you are unsure whether you have found a bug, please consider asking in the [golang-nuts mailing
-list](https://groups.google.com/forum/#!forum/golang-nuts) or [other forums](https://golang.org/help/) first. If
-the behavior you are seeing is confirmed as a bug or issue, it can easily be re-raised in the issue tracker.
-
-## Filing issues
-
-Sensitive security-related issues should be reported to [security@golang.org](mailto:security@golang.org).
-See the [security policy](https://golang.org/security) for details.
-
-The recommended way to file an issue is by running `go bug`.
-Otherwise, when filing an issue, make sure to answer these five questions:
-
-1. What version of Go are you using (`go version`)?
-2. What operating system and processor architecture are you using?
-3. What did you do?
-4. What did you expect to see?
-5. What did you see instead?
-
-For change proposals, see [Proposing Changes To Go](https://github.com/golang/proposal/).
-
-## Contributing code
-
-Please read the [Contribution Guidelines](https://golang.org/doc/contribute.html) before sending patches.
-
-Unless otherwise noted, the Go source files are distributed under
-the BSD-style license found in the LICENSE file.
-
+If you decide to contribute (we hope you do :smile:), the process is familiar and easy if you've used Github before. There are no long documents to read or complex setup. If you haven't used Github before, the awesome [@bketelsen](https://github.com/bketelsen) has created a good overview on how to contribute code - see [here](https://www.youtube.com/watch?v=bgSDcTyysRc).
