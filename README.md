@@ -46,4 +46,4 @@ you start.
 [go-git]: https://github.com/golang/go
 [setup]: https://gophersource.com/setup
 [contributing]: ./CONTRIBUTING.md
-[philosophy]: ./doc/content/community/philosophy.md
+[philosophy]: https://gophersource.com/philosophy/
